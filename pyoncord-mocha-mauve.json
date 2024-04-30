@@ -83,7 +83,7 @@
       "#313244"
       ],
       "INTERACTIVE_NORMAL": [
-      "#bac2de"
+      "#cdd6f4"
       ],
       "MENTION_BACKGROUND": [
       "#f9e2af"
@@ -264,7 +264,7 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "AccessibilityIcon": "#bac2de",
+          "AccessibilityIcon": "#cdd6f4",
           "account": "#cba6f7",
           "add": "#a6e3a1",
           "android-close": "#f38ba8",
@@ -283,16 +283,16 @@
           "ChevronSmallDownIcon": "#cba6f7",
           "close": "#f38ba8",
           "copy": "#a6e3a1",
-          "ClydeIcon": "#5865F2",
+          "ClydeIcon": "#cdd6f42",
           "ic_search": "#cba6f7",
-          "debug": "#91d7e3",
-          "Discord": "#5865F2",
+          "debug": "#cdd6f4",
+          "Discord": "#cdd6f4",
           "down_arrow": "#cba6f7",
           "Friends": "#cba6f7",
           "GlobeEarthIcon": "#cba6f7",
           "GroupIcon": "#cba6f7",
           "hub-invite": "#a6e3a1",
-          "ic_accessibility_24px": "#74c7ec",
+          "ic_accessibility_24px": "#cdd6f4",
           "ic_add_reaction_v2": "#a6e3a1",
           "ic_add_super_reaction": "#cba6f7",
           "ic_add_super_reaction_purple": "#cba6f7",
@@ -421,7 +421,7 @@
           "img_help_icon": "#ee99a0",
           "img_no_results_dark_theme": "#cba6f7",
           "KeyIcon": "#f38ba8",
-          "LanguageIcon": "#f5a97f",
+          "LanguageIcon": "#cdd6f4",
           "LinkIcon": "#a6e3a1",
           "MagnifyingGlassIcon": "#cba6f7",
           "member_list_badge_16px": "#ee99a0",

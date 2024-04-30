@@ -264,7 +264,7 @@
        "version":"0",
        "customOverlays": true,
        "icons":{
-          "AccessibilityIcon": "#74c7ec",
+          "AccessibilityIcon": "#bac2de",
           "account": "#cba6f7",
           "add": "#a6e3a1",
           "android-close": "#f38ba8",
